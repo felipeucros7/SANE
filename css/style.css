@@ -1,0 +1,10 @@
+#encabezado {
+    height: 20vh;
+    background-color: red;
+    width: 100vw;
+}
+nav {
+    height: 20vh;
+    background-color: green;
+    width: 100vw;
+}
